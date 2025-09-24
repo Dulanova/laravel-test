@@ -85,13 +85,12 @@ php artisan serve
 
 🤝 Kontribusi
 
-Kontribusi selalu terbuka!
 Silakan baca Panduan Kontribusi
  sebelum membuat Pull Request.
 
 📜 Lisensi
 
-BudgetBuddy adalah software open-source yang dirilis di bawah lisensi MIT
+BudgetBuddy adalah software yang dikembangkan dalam Project Based Learning di bawah Politeknik Negeri Batam
 .
 
 
