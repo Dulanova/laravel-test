@@ -94,4 +94,6 @@ Silakan baca Panduan Kontribusi
 BudgetBuddy adalah software open-source yang dirilis di bawah lisensi MIT
 .
 
-<p align="center"> Dibuat dengan ❤️ oleh <a href="https://github.com/your-org">BudgetBuddy Team</a> </p> ```
+
+
+<p align="center"> Dibuat dengan ❤️ oleh <a href="https://github.com/your-org">BudgetBuddy Team</a> </p> 
