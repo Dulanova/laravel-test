@@ -61,6 +61,7 @@ Clone repo ini:
 ```bash
 git clone https://github.com/your-org/budgetbuddy.git
 cd budgetbuddy
+```
 
 Install dependencies:
 
@@ -68,18 +69,19 @@ Install dependencies:
 composer install
 cp .env.example .env
 php artisan key:generate
-
+```
 
 Migrasi database:
 
 ```bash
 php artisan migrate --seed
-
+```
 
 Jalankan server lokal:
 
 ```bash
 php artisan serve
+```
 
 🤝 Kontribusi
 
