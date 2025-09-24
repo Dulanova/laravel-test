@@ -95,4 +95,4 @@ BudgetBuddy adalah software yang dikembangkan dalam Project Based Learning di ba
 
 
 
-<p align="center"> Dibuat dengan ❤️ oleh <a href="https://github.com/your-org">BudgetBuddy Team</a> </p> 
+<p align="center"> Dibuat dengan ❤️ oleh <a href="https://github.com/your-org">PBL-TRPL517 A Team</a> </p> 
